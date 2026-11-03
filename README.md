@@ -29,7 +29,7 @@ The project includes atomic tests (`todo.spec.js`) covering:
 
 1.  **Clone the repository:**
     ```bash
-    git clone 
+    git clone https://github.com/madhu-yadav21/ToDo_playwright_project
     ```
 2.  **Install dependencies:**
     ```bash
